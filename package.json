@@ -1,0 +1,21 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "Part of the open source chat project, this is used as the server for the client to connect to.",
+  "main": "main.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
+    "node-rsa": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@onewaycoding.ddns.net:8000/jsrobson10/chat-server.git"
+  },
+  "author": "Josua",
+  "license": "MIT"
+}
